@@ -1,0 +1,1 @@
+# HaikuJAM-spellChecker
